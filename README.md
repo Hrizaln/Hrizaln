@@ -1,7 +1,7 @@
 # Rifky Hendriana
 
 [![GitHub](https://img.shields.io/badge/GitHub-hrizaln-181717?style=flat-square&logo=github)](https://github.com/hrizaln)
-[![TikTok](https://img.shields.io/badge/TikTok-@ailua-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@anairdnehzi)
+[![TikTok](https://img.shields.io/badge/TikTok-@anairdnehzi-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@anairdnehzi)
 [![Email](https://img.shields.io/badge/Email-ikkyxuy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ikkyxuy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rifky_Hendriana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-hendriyana-61a746367)
 
