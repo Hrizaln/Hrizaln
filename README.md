@@ -9,7 +9,9 @@
 
 ## About Me
 
-I am a Computer and Network Engineering student at SMK Yasti Cisaat, Indonesia. I enjoy working on real-world tech such as network configuration, automation with Arduino, and creative tech content. On TikTok (@ailua), I share practical tutorials and projects related to networking and RouterOS.
+I’m passionate about real-world technology, especially in the fields of networking, automation, and educational content creation. My focus includes network configuration, Arduino-based systems, and practical solutions for everyday tech challenges.
+
+Under the name Ailua, I share hands-on tutorials and projects on TikTok (@anairdnehzi), mainly covering topics such as computer networking and MikroTik RouterOS. My goal is to make technical concepts more accessible through real implementation, and to keep learning by building.
 
 ---
 
