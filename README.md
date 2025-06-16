@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rifki Hendriyana
+# 👋 Hi, I'm Rifky Hendriana
 
 🎓 I'm a Computer and Network Engineering student from Yasti Cisaat Vocational High School, passionate about networking, automation, and digital education. I'm also the creator behind *AILUA*, a content initiative on TikTok to simplify complex tech topics through shared experiences.
 
