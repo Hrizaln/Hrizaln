@@ -6,7 +6,7 @@
 
 - 🌐 Design and simulate computer network topologies using Cisco Packet Tracer.
 - 🔧 Build and program automation systems using Arduino, sensors, and RFID.
-- ✍ Create and share educational tech content on [YouTube](https://www.youtube.com/@izhendriana) and [TikTok](https://www.tiktok.com/@ailua).
+- ✍ Create and share educational tech content on [TikTok](https://www.tiktok.com/@ailua).
 - 🛜 Learn and practice MikroTik configurations (basic routing, firewall, and wireless setup).
 - ✨ Develop digital creative projects under the label *Ailuascreative*.
 
@@ -16,7 +16,7 @@
 - *Programming & Automation*: Arduino (C/C++), ESP32, sensor integration.
 - *Software & Tools*: AutoCAD for network documentation, Cisco Packet Tracer, Wireshark.
 - *Web Basics*: HTML, CSS, basic JavaScript.
-- *Operating Systems*: Windows, Debian-based Linux, RouterOS.
+- *Operating Systems*: Windows, Kali Linux, Debian-based Linux, RouterOS.
 
 ## 📦 Projects Highlights
 
@@ -32,8 +32,8 @@
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rifky-hendriyana-61a746367)
-- 📧 Email: rifkyhendriyana@gmail.com
-- 📱 TikTok: [@ailua](https://www.tiktok.com/@ailua)
+- 📧 Email: ikkyxuy@gmail.com
+- 📱 TikTok: [@ailua](https://www.tiktok.com/@anairdnehzi)
 - 🎥 YouTube: [izhendriana](https://www.youtube.com/@izhendriana)
 
 ---
